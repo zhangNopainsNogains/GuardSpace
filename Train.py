@@ -14,9 +14,6 @@ from transformers import default_data_collator
 from utils.dataset_utils import get_preprocessed_dataset 
 from utils.config_utils import generate_dataset_config, update_config  
 from configs import train_config  
-
-from evaluation.utility_evaluation.agnews.evaluate_agnews import evaluate_agnews
-from Evaluate.evaluate_BeaverTails import run_BeaverTails
 import random
 import numpy as np
 
