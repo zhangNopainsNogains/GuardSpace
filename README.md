@@ -13,15 +13,16 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Training
+## Training (Running Fine-tuning)
 
-### Running Fine-tuning
-
+```
 bash run.sh
 ```
+---
 
-## 📊 Evaluation & Utility Evaluation (Task Performance)
+## Evaluation & Utility Evaluation (Task Performance)
 
+```
 Please refer to the AsFT repository: https://github.com/PKU-YuanGroup/AsFT
-
+```
 ---
